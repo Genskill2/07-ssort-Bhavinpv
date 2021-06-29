@@ -9,7 +9,7 @@ for (int i = n; i<l ; i++){
   }
   
   int temp= arr[max_pos];
-  arrmax_pos]=arr[n];
+  arr[max_pos]=arr[n];
   arr[n]=temp;
   }
  
